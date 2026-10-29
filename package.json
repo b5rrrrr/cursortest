@@ -1,0 +1,14 @@
+{
+  "name": "cursortest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal sample to verify the Cloud Agent environment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
